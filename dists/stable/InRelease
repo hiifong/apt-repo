@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: ECuteOS Official Repository
+Label: System Packages
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: This is ECuteOS official software repository
+Date: Tue, 14 Feb 2023 14:18:08 +0000
+MD5Sum:
+ e5c5110f10ddbc5f6ae4b1ff2c616bf3 654 main/binary-amd64/Packages
+ bd9b062fe93d25b218687bb370d7faa1 437 main/binary-amd64/Packages.gz
+ 0e5311b7f330d6a3577e83e50928761d 2227 InRelease
+ 235ef0f78391ec45869a6950fc843df8 858 Release.gpg
+SHA1:
+ 36aaa777c8848ff893693ec15d04d02e2b6b7cf7 654 main/binary-amd64/Packages
+ cc69b5f0db808b40f05648abdf879ed375eb69dc 437 main/binary-amd64/Packages.gz
+ 065f8185f8e3990efa6b43b4b53e7584cca02bd6 2227 InRelease
+ 2a182e14b47a311ddd9b7fc4d192d896c75e06be 858 Release.gpg
+SHA256:
+ 0250ee7451bd8f981252c58d5493604a9352254835395eae899751a4324a78d5 654 main/binary-amd64/Packages
+ a33d20cc24889a22494ed715916fb0247a62ba55efad1faa1e7c02ce2e509a5a 437 main/binary-amd64/Packages.gz
+ 893cba35090291e8061a55ab28ccaf666be13e384249c921189a2eeac19e4894 2227 InRelease
+ 93b7578d89a9cfaf38278b88b67ab72741a0427e766455f576f297809cf82537 858 Release.gpg
+-----BEGIN PGP SIGNATURE-----
+
+iQJEBAEBCgAuFiEEJPokBWJ/kckOV6H9JpOkywhHjKYFAmPrmCAQHGVjdXRlQGJp
+dS14Lm9yZwAKCRAmk6TLCEeMpkVSD/45NZxd6ZJDo2lt+zgxaWHV378L9gpYZOhm
+jY/RfP1eWvnVyl4LsxqzoRE4eRVKEdlCJF6K5qBmbune2F1V/37YqEPOKMm5s6Dq
+CVTxTP+ypuC7YlZbtBlbjvMJLIrmQchbXH2JgctFSjT29VXQv4nW5BQ0Apvxooct
+NjQ4yyEZG/HtHa493gMZUPv9NHYTQsd9iYRe2TTQ00/Kz4eZiWdBfuELuP+8zDUE
+qChwjbpg2PGBg3k0uQdJNIgMapGCM32ZiStcC78vD8fY9ZIHEPOyBFzFtnjnGgOT
+BEM1RiqOuZmljSbE/dLrmoA/0FrM9FL/JRLARX+7EH/8Vf/l/RQ+F9LohAZa3dF0
+vQKbcQI3fqrT1V1Q0gTJU4cBUZxuD4Tu5p8ZOpj8mQNMaWPocPZHQ+riOyqfyvRy
+Dwl/3yRfAkm3t1/SK9wPNMtozILU2eC/cqiKa3n25ZCuY6rZshfhdzl96+xK9nom
+EtJ34ZC2FvaPay+LxGmDMrPxs7VN0FhZI7P//9BHAI0Kv0zcbRAdih8mv7Mtqo+q
+Z7aSNatppBTufTY9zMPF8tCyKcQ/FGBc1KeOpzqFOu/zwn57jAhAASR/Ls/7gS+7
+5ndrTDBjPjyWxNgxUvYnP2qXVUWv/iTDy9rGExw/sPI6/TX80GCz632Ia81gCLp2
+SaQo2BBJeg==
+=nEXM
+-----END PGP SIGNATURE-----

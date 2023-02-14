@@ -1,0 +1,16 @@
+Package: cute-updator
+Version: 23.02.8
+Architecture: amd64
+Maintainer: CuteOS <cuteos@foxmail.com>
+Installed-Size: 353
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libqapt3 (>= 3.0.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5qml5 (>= 5.1.0), libstdc++6 (>= 4.1.1)
+Filename: pool/main/cute-updator_23.02.8_amd64.deb
+Size: 296884
+MD5sum: 90f85878a5f3fb33fc19f2165e0cfeae
+SHA1: 871e3b47f8080ef7f0e96faef8cbf912e9969fc2
+SHA256: 00b2c4485218a130155503f9f091c0f22700ce78775039b9be7e67f9675daf8f
+Section: devel
+Priority: optional
+Homepage: https://cuteos.com
+Description: CuteOS Updator.
+
